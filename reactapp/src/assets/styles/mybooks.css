@@ -1,0 +1,29 @@
+.mybooks-outer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+}
+.mybooks-box{
+    margin: 1%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    padding:30px;
+    background-color: white;
+    box-shadow: 5px 5px 10px
+}
+.mybooks-nav{
+    width:100%;
+}
+.mybooks-cont{
+    margin:1%;
+}
+.mybooks-div{
+    margin-top: 2%;
+}
+.mybooks-title{
+    padding-bottom:20px ;
+    border-bottom: 1px solid grey;
+}

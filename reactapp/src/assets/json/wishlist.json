@@ -1,0 +1,44 @@
+[
+    {
+        "id":17,
+        "title":"Anne of Green Gables",
+        "rating":4.5,
+        "author":"LM Montgomery",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/AnneOfGreenGables_r56f0d.jpg"
+    },
+    {
+        "id":18,
+        "title":"Matilda",
+        "rating":4.8,
+        "author":"Roald Dahl",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/Matilda_vbpuiu.jpg"
+    },
+    {
+        "id":19,
+        "title":"Diary of a Wimpy Kid: Hard Luck",
+        "rating":5,
+        "author":"Jeff Kinney",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/DiaryofaWimpyKid_HardLuck_xwcgpd.jpg"
+    },
+    {
+        "id":11,
+        "title":"The Patient",
+        "rating":4,
+        "author":"Tim Sullivan",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176453/EBOOKSTORE/the-patient-36_byha6z.jpg"
+    },
+    {
+        "id":20,
+        "title":"Hard Boys: The Haunted Fort",
+        "rating":4.8,
+        "author":"Franklin W Dixon",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/hardy-boys-44-the-haunted-fort_jrcsc0.jpg"
+    },
+    {
+        "id":21,
+        "title":"It Starts With Us",
+        "rating":4.8,
+        "author":"Colleen Hoover",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/ItStartsWithUs_bn0kek.jpg"
+    }
+]

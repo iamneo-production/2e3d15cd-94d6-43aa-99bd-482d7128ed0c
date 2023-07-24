@@ -1,0 +1,33 @@
+.profile-outer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+}
+.profile-box{
+    margin: 1%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    padding:30px;
+    background-color: white;
+    box-shadow: 5px 5px 10px
+}
+.profile-nav{
+    width:100%;
+}
+.profile-form{
+    margin:2%;
+    padding-bottom: 40px;
+    border-bottom: 1px solid black;
+}
+#profile-button,#profile-button-edit{
+    width:200px;
+    margin-right:50px;
+}
+.reviews-box{
+    margin:1%;
+    margin-left: 2%;
+    margin-top: 10px;
+}

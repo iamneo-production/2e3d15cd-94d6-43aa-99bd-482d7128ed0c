@@ -1,0 +1,36 @@
+.explore-outer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+}
+.explore-box{
+    margin: 1%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    padding:30px;
+    background-color: white;
+    box-shadow: 5px 5px 10px
+}
+.explore-nav{
+    width:100%;
+}
+.explore-cont{
+    width:100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top:3%
+}
+#exp-search-bar{
+    width:700px;
+}
+.exp-books{
+    margin: 2%;
+    width:90%;
+}
+.exp-book-col{
+    margin-top: 20px;
+}
