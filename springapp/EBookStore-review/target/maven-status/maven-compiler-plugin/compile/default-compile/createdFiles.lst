@@ -1,0 +1,7 @@
+com\example\demo\model\Review$ReviewBuilder.class
+com\example\demo\EbookstoreReviewApplication.class
+com\example\demo\model\Review.class
+com\example\demo\controller\ApiController.class
+com\example\demo\model\ReviewRequest.class
+com\example\demo\model\ReviewRequest$ReviewRequestBuilder.class
+com\example\demo\repository\ReviewRepo.class
