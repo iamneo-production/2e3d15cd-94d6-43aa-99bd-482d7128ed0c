@@ -1,0 +1,38 @@
+.login-outer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+}
+.login-box{
+    margin: 5%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    height: max-content;
+    padding:50px;
+    background-color: white;
+    box-shadow: 5px 5px 10px;
+}
+.login-form{
+    margin: 2%;
+    padding:50px;
+    width:500px;
+    height: max-content;
+    position: relative;
+}
+ #login-button{
+    width:150px;
+    transition: .2s;
+}
+.login-bar
+{
+    border: 1px solid black;
+    margin:2%;
+}
+.login-img{
+    display: flex;
+    width:400px;
+    margin:2%;
+    margin-left: 10%;
+}

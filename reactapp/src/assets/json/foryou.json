@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "title":"Diary of a Wimpy Kid: Rodrick Rules",
+        "rating":4.5,
+        "author":"Jeff Kinney",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/DiaryofaWimpyKid_RodrickRulesjpg_tk7x0q.jpg"
+    },
+    {
+        "id":6,
+        "title":"The Wizard of Oz",
+        "rating":4.8,
+        "author":"Frank Baum",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/WizardOfOz_wc7mr4.jpg"
+    },
+    {
+        "id":7,
+        "title":"The Secret Seven: Mystery of the Theatre Ghost",
+        "rating":4.8,
+        "author":"Enid Blyton",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/secretsevenmysteryofthetheatreghost_xzmr3f.jpg"
+    },
+    {
+        "id":8,
+        "title":"Beasts and Beauty",
+        "rating":4.8,
+        "author":"Soman Chainani",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/BeastsAndBeauty_dbxhgf.jpg"
+    },
+    {
+        "id":9,
+        "title":"Charlie and the Chocolate Factory",
+        "rating":4.8,
+        "author":"Roald Dalh",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/CharlieandTheChocolateFactory_npbybh.jpg"
+    },
+    {
+        "id":10,
+        "title":"David Copperfield",
+        "rating":4.8,
+        "author":"Charles Dickens",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176453/EBOOKSTORE/david-copperfield_uhssox.jpg"
+    }
+]

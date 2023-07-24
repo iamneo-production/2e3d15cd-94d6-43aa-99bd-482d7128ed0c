@@ -1,0 +1,45 @@
+[
+    {
+    "id":11,
+    "title":"The Patient",
+    "rating":4,
+    "author":"Tim Sullivan",
+    "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176453/EBOOKSTORE/the-patient-36_byha6z.jpg"
+    },
+    {
+    "id":12,
+    "title":"Geronimo Stilton: Magical Mission",
+    "rating":5,
+    "author":"Elisabetta Dami",
+    "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176455/EBOOKSTORE/magical-mission-geronimo-stilton-64_i0vjff.jpg"
+    },
+    {
+    "id":13,
+    "title":"Hello Beautiful",
+    "rating":4.7,
+    "author":"Ann Napolitano",
+    "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176453/EBOOKSTORE/HelloBeautiful_dmrlyy.jpg"
+    },
+    {
+    "id":14,
+    "title":"The Spinster and The Rake",
+    "rating":4.5,
+    "author":"Eva Davon",
+    "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/TheSpinsterAndTheRake_hikzon.jpg"
+    },
+    {
+    "id":15,
+    "title":"Nona The Ninth",
+    "rating":4.8,
+    "author":"Tamsyn Muir",
+    "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/58662507_e3ybig.jpg"
+    },
+    {
+    "id":16,
+    "title":"The School For Good and Evil",
+    "rating":4.8,
+    "author":"Soman Chainani",
+    "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/the-school-for-good-and-evil_xgugcf.jpg"
+    }
+
+]

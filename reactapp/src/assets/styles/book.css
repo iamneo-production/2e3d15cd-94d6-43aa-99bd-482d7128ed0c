@@ -1,0 +1,115 @@
+.book-outer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    justify-content: center;
+}
+.book-box{
+    margin: 1%;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    height: max-content;
+    padding:30px;
+    background-color: white;
+    box-shadow: 5px 5px 10px
+}
+.book-nav{
+    width:100%;
+}
+.book-details{
+    margin: 1%;
+}
+.book-title{
+    margin-top: 1%;
+}
+.book-det-card{
+    height:600px;
+    display: flex;
+    margin-top: 40px;
+}
+.book-cover{
+    display: flex;
+    justify-content: center;
+    margin:2%;
+    background-color: black;
+    padding:30px;
+    border-radius: 20px;
+}
+.book-pars{
+    width:80%;
+}
+.book-pars p{
+    width:1000px;
+}
+.book-dets{
+    margin:1%;
+}
+.book-img{
+    width:300px;
+    border-radius: 10px;
+}
+.book-butts{
+    margin:2%;
+    width:200px;
+    border:1px solid black;
+}
+.book-butts:hover{
+    background-color: black;
+    color:white;
+    transition: .3s;
+}
+.book-pre-cont{
+    width:900px;
+    margin-left: 20px;
+    /* overflow: hidden; */
+    display: none;
+}
+.book-pre{
+    overflow-x: scroll;
+    display: flex;
+    margin-top: 20px;
+    padding:30px;
+    background-color: #f2f2f2;
+    border-radius: 30px;
+}
+.preview-img{
+    margin:10px;
+    height:130px;
+    border-radius: 20px;
+}
+.preview-img:hover{
+    transform: scale(1.05);
+    transition: .2s;
+}
+.reviews{
+    margin-top: 1%;
+    padding: 20px;
+    padding-bottom: 40px;
+    border-radius: 20px;
+    background-color: #f2f2f2;
+}
+.review-cont{
+    margin-top: 20px;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+}
+.review-rating{
+    margin-top: 15px;
+}
+.review-comment{
+    margin-top: 15px;
+    font-size:20px;
+    font-family: 'Caveat';
+}
+#review-rating-bar{
+    width:100px;
+}
+#book-rating-star{
+    margin-right: 10px;
+    translate: 0 -3px;
+}
+.add-review{
+    display: none;
+    margin:30px;
+}

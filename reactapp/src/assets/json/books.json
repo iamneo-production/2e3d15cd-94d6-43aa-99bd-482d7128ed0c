@@ -1,0 +1,288 @@
+[
+    {
+        "title":"Diary of a Wimpy Kid: Rodrick Rules",
+        "rating":4.5,
+        "author":"Jeff Kinney",
+    "genre":["Young Adult","Fiction","Fun"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/DiaryofaWimpyKid_RodrickRulesjpg_tk7x0q.jpg",
+        "price":6.90,
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+    "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+    "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+    "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+    "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+
+    },
+
+    {
+        "title":"Hardy Boys : The Tower Treasure",
+        "rating":5,
+        "author":"Franklin W Dixon",
+        "price":6.90,
+    "genre":["Adventure","Fiction","Mystery","Spy","Detective"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/The_Tower_Treasure_HARDYBOYS_iyqgds.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+     
+    },
+
+    {
+        "title":"It Ends With Us",
+        "rating":5,
+        "author":"Colleen Hoover",
+        "price":6.90,
+        "genre":["Young Adult","Romance","Sad"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/ItEndsWithUs_aala3s.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+     },
+    {
+        "title":"Alice's Adventures in Wonderland",
+        "rating":4.8,
+        "author":"Lewis Carroll",
+        "price":9.60,
+    "genre":["Children's","Fiction","Magic","Fantasy"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/AliceinWonderland_abxxps.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+     },
+    {
+        "title":"Secret Seven: Shock for the Seven ",
+        "rating":4.9,
+        "author":"Enid Blyton",
+        "price":9.60,
+        "genre":["Adventure","Young Adult","Fiction","Mystery","Spy","Detective"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/shock-for-the-secret-seven-1_p4ietp.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+     },
+    {
+            "title":"The Wizard of Oz",
+            "rating":4.8,
+            "author":"Frank Baum",
+            "price":9.60,
+            "genre":["Fantasy"],
+            "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/WizardOfOz_wc7mr4.jpg",
+            "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+            "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+            "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+            "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+            "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+         },
+    {
+            "title":"The Secret Seven: Mystery of the Theatre Ghost",
+            "rating":4.8,
+            "author":"Enid Blyton",
+            "price":9.60,
+            "genre":["Adventure","Young Adult","Fiction","Mystery","Spy","Detective"],
+            "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/secretsevenmysteryofthetheatreghost_xzmr3f.jpg",
+            "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+            "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+            "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+            "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+            "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+    {
+            "title":"Beasts and Beauty",
+            "rating":4.8,
+            "author":"Soman Chainani",
+            "price":8.50,
+            "genre":["Young Adult","Fiction","Romance","Fantasy"],
+            "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/BeastsAndBeauty_dbxhgf.jpg",
+            "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+            "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+            "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+            "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+            "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+    {
+            "title":"Charlie and the Chocolate Factory",
+            "rating":4.8,
+            "author":"Roald Dalh",
+            "price":8.50,
+            
+    "genre":["Children's","Fantasy"],
+            "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/CharlieandTheChocolateFactory_npbybh.jpg",
+            "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+            "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+            "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+            "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+            "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+    {
+            "title":"David Copperfield",
+            "rating":4.8,
+            "author":"Charles Dickens",
+            "price":7.00,
+            
+    "genre":["Adventure"],
+            "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176453/EBOOKSTORE/david-copperfield_uhssox.jpg",
+            "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+            "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+            "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+            "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+            "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+         },
+        {
+        "title":"The Patient",
+        "rating":4,
+        "author":"Tim Sullivan",
+        "price":7.00,
+        
+    "genre":["Mystery","Spy","Detective"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176453/EBOOKSTORE/the-patient-36_byha6z.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+     },
+        {
+        "title":"Geronimo Stilton: Magical Mission",
+        "rating":5,
+        "author":"Elisabetta Dami",
+        "price":5.00,
+        "genre":["Adventure","Children's"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176455/EBOOKSTORE/magical-mission-geronimo-stilton-64_i0vjff.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    
+        },
+        {
+        "title":"Hello Beautiful",
+        "rating":4.7,
+        "author":"Ann Napolitano",
+        "price":5.00,
+        "genre":["Young Adult"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176453/EBOOKSTORE/HelloBeautiful_dmrlyy.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+    "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+    "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+    "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+    "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+},
+        {
+        "title":"The Spinster and The Rake",
+        "rating":4.5,
+        "author":"Eva Davon",
+        "price":5.00,
+        "genre":["Romance"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/TheSpinsterAndTheRake_hikzon.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+     },
+        {
+        "title":"Nona The Ninth",
+        "rating":4.8,
+        "author":"Tamsyn Muir",
+        "price":5.00,
+        "genre":["Adventure"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/58662507_e3ybig.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+     },
+        {
+        "title":"The School For Good and Evil",
+        "rating":4.8,
+        "author":"Soman Chainani",
+        "price":7.70,
+        
+    "genre":["Fantasy","Magic"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176452/EBOOKSTORE/the-school-for-good-and-evil_xgugcf.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+        "title":"Anne of Green Gables",
+        "rating":4.5,
+        "author":"LM Montgomery",
+        "price":7.70,
+        
+    "genre":["Adventure"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/AnneOfGreenGables_r56f0d.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+        "title":"Matilda",
+        "rating":4.8,
+        "author":"Roald Dahl",
+        "price":7.70,
+        
+    "genre":["Children's","Fantasy"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/Matilda_vbpuiu.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+        "title":"Diary of a Wimpy Kid: Hard Luck",
+        "rating":5,
+        "author":"Jeff Kinney",
+        "price":7.70,
+        "genre":["Adventure","Young Adult","Fun"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/DiaryofaWimpyKid_HardLuck_xwcgpd.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+        "title":"Hard Boys: The Haunted Fort",
+        "rating":4.8,
+        "author":"Franklin W Dixon",
+        "price":7.70,
+        "genre":["Adventure","Young Adult","Fiction","Mystery","Spy","Detective"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176451/EBOOKSTORE/hardy-boys-44-the-haunted-fort_jrcsc0.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    },
+    {
+        "title":"It Starts With Us",
+        "rating":4.8,
+        "author":"Colleen Hoover",
+        "price":7.57,
+        
+    "genre":["Young Adult","Happy","Romance"],
+        "coverimage":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/ItStartsWithUs_bn0kek.jpg",
+        "preimage1":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571369/samples/food/pot-mussels.jpg",
+        "preimage2":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571373/samples/people/bicycle.jpg",
+        "preimage3":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571374/samples/ecommerce/car-interior-design.jpg",
+        "preimage4":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1668571391/cld-sample-5.jpg",
+        "synopsis":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+    }
+
+]

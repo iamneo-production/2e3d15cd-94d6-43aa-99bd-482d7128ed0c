@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Diary of a Wimpy Kid: Rodrick Rules",
+        "rating":4.5,
+        "author":"Jeff Kinney",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/DiaryofaWimpyKid_RodrickRulesjpg_tk7x0q.jpg"
+    },
+
+    {
+        "id":2,
+        "title":"Hardy Boys : The Tower Treasure",
+        "rating":5,
+        "author":"Franklin W Dixon",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/The_Tower_Treasure_HARDYBOYS_iyqgds.jpg"
+    },
+
+    {
+        "id":3,
+        "title":"It Ends With Us",
+        "rating":5,
+        "author":"Colleen Hoover",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/ItEndsWithUs_aala3s.jpg"
+    },
+    {
+        "id":4,
+        "title":"Alice's Adventures in Wonderland",
+        "rating":4.8,
+        "author":"Lewis Carroll",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176450/EBOOKSTORE/AliceinWonderland_abxxps.jpg"
+    },
+    {
+        "id":5,
+        "title":"Secret Seven: Shock for the Seven ",
+        "rating":4.9,
+        "author":"Enid Blyton",
+        "image":"https://res.cloudinary.com/dzz4n6jj5/image/upload/v1689176449/EBOOKSTORE/shock-for-the-secret-seven-1_p4ietp.jpg"
+    }
+]

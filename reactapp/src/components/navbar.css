@@ -1,0 +1,61 @@
+.navbar-outer{
+    display: flex;
+    height:140px;
+    border-bottom:1px solid black;
+    width: 100%;
+    padding-bottom:30px;
+}
+#navbar-logo{
+    height:100px;
+}
+#nav-logout{
+    display: flex;
+    justify-content: center;
+    margin: 1%;
+    margin-right:3%;
+}
+#nav-logout-icon{
+    font-size: xx-large;
+    cursor: pointer;
+    color:black;
+}
+.navbar-right{
+    display: flex;
+    flex-direction: column;
+    margin-left:5%;
+    width:100%;
+}
+.user-display{
+    height:50%;
+    display: flex;
+    justify-content: right;
+}
+.nav-welcome{
+    margin-right:2%;
+    font-size: xx-large;
+    font-family: 'Caveat',cursive;
+}
+.navbar-buttons{
+    display: flex;
+    justify-content: right;
+    height:40%;
+}
+.nav-butt{
+    border:0;
+    margin-right: 3px;
+    height:max-content;
+    margin-left: 3px;
+    border-radius: 10px;
+    background-color: white;
+    width:130px;
+    padding: 3px;
+}
+.nav-butt p{
+    margin-top: 3px;
+    font-size: small;
+}
+.nav-butt:hover{
+    background-color: black;
+    color: white;
+    transition: .3s;
+}
