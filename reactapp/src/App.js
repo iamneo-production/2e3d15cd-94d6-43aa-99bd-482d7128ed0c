@@ -4,7 +4,8 @@ import Signup from './pages/signup';
 import ForgotPassword from './pages/forgotpassword';
 import Home from './pages/home';
 import { Routes,Route } from 'react-router-dom';
-import store from './redux/store';
+import {store,persistor} from './redux/store';
+import { PersistGate } from 'redux-persist/integration/react';
 import Explore from './pages/explore';
 import { Provider } from 'react-redux';
 import Book from './pages/book';
@@ -15,6 +16,7 @@ import Profile from './pages/profile';
 function App() {
   return (
     <Provider store={store}>
+      <PersistGate loading={null} persistor={persistor}>
     <Routes>
       <Route path="/" element={<Login/>}/>
       <Route path="/signup" element={<Signup/>}/>
@@ -26,6 +28,7 @@ function App() {
       <Route path="/cart" element={<Cart/>}/>
       <Route path="/profile" element={<Profile/>}/>
     </Routes>
+    </PersistGate>
     </Provider>
   );
 }

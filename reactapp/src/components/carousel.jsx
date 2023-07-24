@@ -38,13 +38,13 @@ function Carousel({data}){
                 <button id="prev-button" onClick={prevImage}><ArrowLeftOutlined className="carousel-icons"/></button>
                 </div>
                 <div className="c-img">
-                <img id="carousel-img" src={data[currentIndex].image} alt="Carousel"/>
+                <img id="carousel-img" src={data[currentIndex]?.coverimage} alt="Carousel"/>
                 </div>
                 <div className="carousel-book-det">
-                <Link className="route" to={"/book/"+data[currentIndex].id}>
-                <h1 id="carousel-title">{data[currentIndex].title}</h1>
+                <Link className="route" to={"/book/"+data[currentIndex]?.id}>
+                <h1 id="carousel-title">{data[currentIndex]?.title}</h1>
                 </Link>
-                <h4 id="carousel-title">{data[currentIndex].author}</h4>
+                <h4 id="carousel-title">{data[currentIndex]?.author}</h4>
                 </div>
                 <div className="carousel-butts">
                 <button id="next-button" onClick={nextImage}><ArrowRightOutlinedIcon className="carousel-icons"/></button>

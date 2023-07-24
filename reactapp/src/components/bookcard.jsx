@@ -1,5 +1,5 @@
 import "./bookcard.css";
-import { StarOutlineSharp } from "@mui/icons-material";
+import { StarsRounded} from "@mui/icons-material";
 import { Link } from "react-router-dom";
 
 const BookCard=({data})=>{
@@ -7,16 +7,16 @@ const BookCard=({data})=>{
         <div className="book-card-outer">
             <Link className="book-card-link" to={"/book/"+data.id}>
             <div className="book-card-imdiv">
-                <img className="book-card-img"src={data.image}/>
+                <img className="book-card-img" alt="book-cover" src={data.coverimage}/>
             </div>
             <div className="book-card-details">
                 <div className="book-card-det">
                     <div className="book-title">
                     <h4>{data.title}</h4>
-                    </div>
                     <p className="book-card-author">{data.author}</p>
+                    </div>
                     <div className="book-card-rating">
-                        <StarOutlineSharp id="rating-star"/>
+                        <StarsRounded id="rating-star"/>
                         {data.rating}
                     </div>
                 </div>

@@ -3,6 +3,7 @@
     flex-direction: column;
     padding: 10px;
     justify-content: center;
+    transition: height ease-out;
 }
 .explore-box{
     margin: 1%;

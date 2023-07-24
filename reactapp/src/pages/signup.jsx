@@ -12,13 +12,18 @@ import { useNavigate } from "react-router-dom";
 import Name from "../components/name";
 import EmailOutlinedIcon from '@mui/icons-material/EmailOutlined';
 import { LockOutlined, Person4Outlined } from "@mui/icons-material";
-
+import axios from "axios";
+import { Snackbar } from "@mui/material";
+import Alert from "@mui/material/Alert";
 
 function Signup(){
     const nav=useNavigate();
     const [form,setForm]=useState({});
     const [errors,setErrors]=useState({});
     const [valids,setValids]=useState({});
+    const [signupToast,setSignupToast]=useState(false);
+    const [signupEToast,setSignupEToast]=useState(false);
+
     const submitForm=(e)=>{
         e.preventDefault();
         window.scrollTo(0,0);
@@ -27,10 +32,25 @@ function Signup(){
             setErrors(formErrors);
         }
         else{
-            nav("/");
-            console.log(valids);
+            createUser();
         }
     }
+
+    const createUser=()=>{
+        axios.post("http://localhost:8081/auth/register",{
+            "username":valids["userName"],
+            "firstName":valids["firstName"],
+            "lastName":valids["lastName"],
+            "email":valids["Email"],
+            "password":valids["password"]
+        }).then((res)=>{
+            setSignupToast(true);
+            nav("/");
+        }).catch((error)=>{
+            setSignupEToast(true);
+        })
+    }
+
     const validateForm=()=>{
         const {firstName,lastName,userName,Email,password,cnfPassword}=valids;
         const newErrors={};
@@ -93,9 +113,6 @@ function Signup(){
             case "userName":
                 if(value==="")
                 return [false,"Invalid Username"];
-                //check if username is already taken below
-                if(value==="ashizuki")
-                return [false,"Username Already Taken"];
                 return [true,value];
             case "password":
                 if(validator.isStrongPassword(value,{minLength: 8, minLowercase: 1,minUppercase: 1, minNumbers: 1, minSymbols: 1}))
@@ -113,8 +130,22 @@ function Signup(){
                 return [true,null];
         }
     }
+    const handleToastClose=()=>{
+        setSignupEToast(false);
+        setSignupToast(false);
+    }
     return(
         <div className="signup-outer">
+            <Snackbar anchorOrigin={{vertical:'bottom',horizontal:'right'}} open={signupEToast} onClose={handleToastClose} autoHideDuration={3000}>
+                <Alert sx={{backgroundColor:'red',color:'white',width:'300px',translate:'15px 0'}} severity="warning">
+                    User Already Exists!!!
+                </Alert>
+            </Snackbar>
+            <Snackbar anchorOrigin={{vertical:'bottom',horizontal:'right'}} open={signupToast} onClose={handleToastClose} autoHideDuration={3000}>
+                <Alert sx={{backgroundColor:'green',color:'white',width:'300px',translate:'15px 0'}} severity="succes">
+                    User Registered Successfully!!!
+                </Alert>
+            </Snackbar>
             <div className="signup-box">
                 <div className="signup-form">
                     <Form  noValidate onSubmit={submitForm}>
